@@ -23,7 +23,7 @@
 
 Feel free to use in mobile and pc
 
-I am not a TypeScript devveloper. So I did what I can do here. 
+I am not a TypeScript developer. So I did what I can do here. 
 Backend is using NodeJs + Express + Typescript 
 Frontent is using React
 There is a lib folder is used for StringHelpers. Is a CommonJS lib added inside project by npm i {folder}
